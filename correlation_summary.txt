@@ -1,0 +1,12 @@
+Strongest Correlations:
+Product_ID     Product_ID       1.000000
+Unit_Price     Unit_Price       1.000000
+Quantity_Sold  Quantity_Sold    1.000000
+Sales_Amount   Sales_Amount     1.000000
+Discount       Discount         1.000000
+Unit_Cost      Unit_Cost        1.000000
+Unit_Price     Unit_Cost        0.995056
+Unit_Cost      Unit_Price       0.995056
+Product_ID     Quantity_Sold    0.094479
+Quantity_Sold  Product_ID       0.094479
+dtype: float64

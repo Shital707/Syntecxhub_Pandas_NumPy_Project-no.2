@@ -1,0 +1,5 @@
+SALES SUMMARY REPORT
+=====================
+Total Sales: 5019265.2299999995
+Highest Sales Category: Clothing
+Best Performing Region: North
